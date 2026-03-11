@@ -53,7 +53,7 @@ export default function SocialLinks() {
       
       {/* YouTube */}
       <a 
-        href="#" 
+        href="https://www.youtube.com/@УголокОзвучки" 
         target="_blank" 
         rel="noopener noreferrer"
         className={circleButtonClass}
@@ -64,7 +64,7 @@ export default function SocialLinks() {
 
       {/* Telegram */}
       <a 
-        href="#" 
+        href="https://t.me/ugolokozvuchki" 
         target="_blank" 
         rel="noopener noreferrer"
         className={circleButtonClass}
@@ -75,7 +75,7 @@ export default function SocialLinks() {
 
       {/* TikTok */}
       <a 
-        href="#" 
+        href="https://www.tiktok.com/@ugolokozvuchki" 
         target="_blank" 
         rel="noopener noreferrer"
         className={circleButtonClass}
