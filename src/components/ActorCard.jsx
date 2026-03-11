@@ -159,7 +159,7 @@ export default function ActorCard({ actor, activeMediaId, onMediaPlay }) {
                     <video 
                       ref={el => videoRefs.current[index] = el}
                       src={video.url} 
-                      poster={video.poster}
+                    //   poster={video.poster}
                       loop
                       playsInline 
                       controlsList="nodownload"
