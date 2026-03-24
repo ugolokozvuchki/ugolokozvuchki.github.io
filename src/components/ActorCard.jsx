@@ -158,8 +158,7 @@ export default function ActorCard({ actor, activeMediaId, onMediaPlay }) {
                   <div className="aspect-video bg-black rounded-xl overflow-hidden relative mb-6">
                     <video 
                       ref={el => videoRefs.current[index] = el}
-                      src={video.url} 
-                    //   poster={video.poster}
+                      src={video} 
                       loop
                       playsInline 
                       controlsList="nodownload"
