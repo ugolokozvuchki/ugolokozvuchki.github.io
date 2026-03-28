@@ -30,7 +30,7 @@ export const ACTORS_DATA = [
   {
     id: 3,
     name: "Алекс",
-    description: "",
+    description: "Актёр озвучки около 2-х лет в разных проектах, а так же иногда делаю кавере по разным проектам. Люблю озвучивать разных персонажей, так как это даёт огромный опыт с эмоциями, но больше всего злодеев. Так же иногда делаю 3Д анимации и 3Д рендеринг/позинг :3",
     audioUrl: `${base}actors/Alex.mp3`,
     videos: [
       `${base}actors/Alex_v1.mp4`,
@@ -63,7 +63,7 @@ export const ACTORS_DATA = [
   {
     id: 6,
     name: "Димаз",
-    description: "",
+    description: "Как я пришёл в озвучку? Я раньше озвучивал разные анимации, друг мне сказал что у меня хорошо выходит. И я решил что стану актером озвучки.",
     audioUrl: `${base}actors/Dimaz.mp3`,
     videos: [
       `${base}actors/Dimaz_v1.mp4`,
@@ -126,7 +126,7 @@ export const ACTORS_DATA = [
   {
     id: 11,
     name: "Лисёнок",
-    description: "",
+    description: "Домашний Лисёнок работаю за еду и похвалу. Чуть-чуть озвучиваю, чуть-чуть монтирую.",
     audioUrl: `${base}actors/Lisyonok.mp3`,
     videos: [
       `${base}actors/Lisyonok_v1.mp4`,
