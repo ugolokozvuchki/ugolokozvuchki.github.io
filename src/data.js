@@ -3,17 +3,17 @@ const base = import.meta.env.BASE_URL;
 export const ACTORS_DATA = [
   {
     id: 1,
-    name: "Mr Den",
+    name: "Whisper",
     description: "Актёр озвучки, дубляжа и по совместительству создатель студии. Стараюсь делать свою роботу хорошо.",
-    audioUrl: `${base}actors/Mr_Den.mp3`, 
+    audioUrl: `${base}actors/Whisper.mp3`, 
     videos: [
-      `${base}actors/Mr_Den_v1.mp4`,
-      `${base}actors/Mr_Den_v2.mp4`,
-      `${base}actors/Mr_Den_v3.mp4`,
-      `${base}actors/Mr_Den_v4.mp4`,
-      `${base}actors/Mr_Den_v5.mp4`,
-      `${base}actors/Mr_Den_v6.mp4`,
-      `${base}actors/Mr_Den_v7.mp4`,
+      `${base}actors/Whisper_v1.mp4`,
+      `${base}actors/Whisper_v2.mp4`,
+      `${base}actors/Whisper_v3.mp4`,
+      `${base}actors/Whisper_v4.mp4`,
+      `${base}actors/Whisper_v5.mp4`,
+      `${base}actors/Whisper_v6.mp4`,
+      `${base}actors/Whisper_v7.mp4`,
     ]
   },
   {
